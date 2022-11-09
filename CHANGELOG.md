@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.4](https://github.com/NateScarlet/qidian/compare/v0.4.3...v0.4.4) (2022-11-09)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/stretchr/testify to v1.8.1 ([28e55d5](https://github.com/NateScarlet/qidian/commit/28e55d5ce49a18326bdbb337a776194282f52995))
+* **deps:** update module golang.org/x/image to v0.1.0 ([4433be4](https://github.com/NateScarlet/qidian/commit/4433be4932cdddcaaece822b4cabf3a779182599))
+* **deps:** update module golang.org/x/net to v0.1.0 ([6534262](https://github.com/NateScarlet/qidian/commit/6534262885692c4e452b22d802e5462a1dad2d42))
+* **deps:** update module golang.org/x/net to v0.2.0 ([4183f1d](https://github.com/NateScarlet/qidian/commit/4183f1da142397abb2a084dcd8264a2569edb839))
+
 ## [0.4.3](https://github.com/NateScarlet/qidian/compare/v0.4.2...v0.4.3) (2022-08-25)
 
 
